@@ -1,5 +1,7 @@
 # Inclusive Fashion AI project (InFashAI)
 
+![alt text](https://github.com/hgilles06/infashai/blob/main/image11.jpg?raw=true)
+
 AI algorithms, and in particular Machine Learning (ML), learn from data certain tasks traditionally assigned to humans such as: image classification, facial recognition, linguistic translation etc. To have a good capacity for generalization, AI algorithms must learn from sufficiently representative data, which is unfortunately not often the case. This results in a specialization of AI and its inability to perform well on new data whose distribution is too far from the one of the training set. It is therefore the cause of ethical problems which will undoubtedly have repercussions on society. However, and despite the biases they can entail, AI technologies are revolutionizing virtually every industry, and forcing players in those industries to reinvent their businesses. They are also considered to be precursors of innovation and technological progress.
 Like many industries, the fashion industy is being hit hard by exponential advances in AI. AI technologies are now able to describe a dress model, extract its attributes (color, style, type of sleeve, etc.), predict future fashion trends and even offer personalized clothing styles. Several large datasets of fashion images made it possible.
 
